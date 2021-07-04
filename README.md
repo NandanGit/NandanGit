@@ -6,9 +6,10 @@
 > ### :globe_with_meridians: IOT
 <br/>
 
+
 > ## 🌱 I’m currently learning
 > ### :globe_with_meridians: IOT
-> ### :atom_symbol: React
+> ### ![React](https://reactjs.org/favicon-32x32.png?v=f4d46f030265b4c48a05c999b8d93791) React
 <br/>
 
 <!-- 💞️ I’m looking to collaborate on ... -->
