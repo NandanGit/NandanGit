@@ -9,7 +9,7 @@
 
 > ## 🌱 I’m currently learning
 > ### :globe_with_meridians: IOT
-> ### ![React](https://reactjs.org/favicon-32x32.png?v=f4d46f030265b4c48a05c999b8d93791) React
+> ### <img src="react_icon.svg" width="25" height="25"> React
 <br/>
 
 <!-- 💞️ I’m looking to collaborate on ... -->
