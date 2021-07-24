@@ -2,14 +2,15 @@
 <br/>
 
 > ## 👀 I’m interested in
-> ### :desktop_computer: Web Development
-> ### :globe_with_meridians: IOT
+> ### <img src="icons/web_development.svg" width="20" height="20"> Web Development
+> ### <img src="icons/iot.svg" width="20" height="20"> IOT
 <br/>
 
 
-> ## 🌱 I’m currently learning
-> ### :globe_with_meridians: IOT
-> ### <img src="react_icon.svg" width="25" height="25"> React
+> ## <img src="icons/learning.svg" width="30" height="30"> I’m currently learning
+> ### <img src="icons/iot.svg" width="20" height="20"> IOT
+> ### <img src="icons/react.svg" width="20" height="20"> React
+> ### <img src="icons/typescript.svg" width="20" height="20"> TypeScript
 <br/>
 
 <!-- 💞️ I’m looking to collaborate on ... -->
