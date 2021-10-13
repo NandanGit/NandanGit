@@ -9,8 +9,11 @@
 
 > ## <img src="icons/learning.svg" width="30" height="30"> I’m currently learning
 > ### <img src="icons/iot.svg" width="20" height="20"> IOT
+> ### <img src="icons/aws.svg" width="20" height="20"> AWS
+<!--
 > ### <img src="icons/react.svg" width="20" height="20"> React
 > ### <img src="icons/typescript.svg" width="20" height="20"> TypeScript
+-->
 <br/>
 
 <!-- 💞️ I’m looking to collaborate on ... -->
